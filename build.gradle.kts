@@ -20,5 +20,5 @@ tasks.withType<Test> {
 }
 
 application {
-    mainClassName = "com.gunny.words.Main"
+    mainClassName = "Main"
 }
